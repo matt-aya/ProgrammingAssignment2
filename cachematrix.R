@@ -8,7 +8,7 @@
                 ## FIRST : Function one:
 
 
-## 1. reates a special "matrix" object
+## 1. Creates a special "matrix" object
 ## 2. compute it's inverse with --- solve() ---
 ## 3. cache the result into getinv
 
